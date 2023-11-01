@@ -149,3 +149,8 @@ apt install npm
 
 Installing Jenkins in Docker
 docker run -p 8080:8080 -p 50000:50000 -v jenkins_home:/var/jenkins_home -d --name jenkins  jenkins/jenkins:lts-jdk11
+
+
+
+
+Jenkin admin ps - db138c178f3040959707d5e82615488e
